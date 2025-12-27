@@ -1,4 +1,10 @@
-# React + Vite
+# Lottery Game (React + Vite)
+
+Live demo: https://lottery-game-js-2025.vercel.app
+
+This project is a small React + Vite demo (Lottery game). The rest of this README contains the original template notes.
+
+---
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
